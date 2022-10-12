@@ -8,11 +8,10 @@
         "type": "leaf",
         "dimension": 52.429467084639505,
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "TODO.md",
-            "mode": "source",
-            "source": false
+            "file": ".obsidian/graph.json",
+            "staged": false
           }
         }
       },
@@ -81,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md"
               }
             }
           }
@@ -164,10 +164,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 526.5
   },
   "active": "5c23850dc845c9a9",
   "lastOpenFiles": [
+    "TODO.md",
     "Biology/Living Things and Cells/Diversity of living things.md",
     "Biology/Living Things and Cells/Living Things and Cells.md",
     "Biology/Living Things and Cells/What are living things?.md",
@@ -176,7 +177,6 @@
     "[[Different types of living things.md",
     "Biology/Biology Contents.md",
     "Contents.md",
-    "Biology/The Origin of Living Things.md",
-    "Biology/Passing on Characteristics/Passing on Characteristics.md"
+    "Biology/The Origin of Living Things.md"
   ]
 }

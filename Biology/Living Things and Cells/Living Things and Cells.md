@@ -43,7 +43,7 @@ Biodiversity and loss of suitable habitats
 
 Living Things are made of cells; they are the basic building blocks of all organisms.
 most cells are microscopic
-
+```latex
 $\Huge x=\frac{9-x\sqrt{ax-c^2}}{-2^3}$
-lol
 $\Huge x=\frac{9-x\sqrt{ax-c^2}}{-2^3}$
+```
