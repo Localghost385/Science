@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "024788e99a2d5afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c23850dc845c9a9",
+        "type": "leaf",
+        "dimension": 52.429467084639505,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "887b95a909631349",
+        "type": "leaf",
+        "dimension": 47.5705329153605,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biology/Living Things and Cells/Living Things and Cells.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68007771d058b951",
+    "type": "split",
+    "children": [
+      {
+        "id": "628bf09b96e8e5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d8f469c6179cb3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e736b0a38aa190e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfeb1f1ff44cca17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Biology",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3365f036ab031b6d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d72f0c277301fb5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "44616301c5854500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1fdcda5c7348ee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc4037222b8b957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de7f32cd243d4dd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d3339ccd16f36d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ea25d1e8370cabb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fcab149c2c8ad06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5c23850dc845c9a9",
+  "lastOpenFiles": [
+    "Biology/Living Things and Cells/Diversity of living things.md",
+    "Biology/Living Things and Cells/Living Things and Cells.md",
+    "Biology/Living Things and Cells/What are living things?.md",
+    "Biology/Living Things and Cells/Different types of living things.md",
+    "[[Different types of living things]].md",
+    "[[Different types of living things.md",
+    "Biology/Biology Contents.md",
+    "Contents.md",
+    "Biology/The Origin of Living Things.md",
+    "Biology/Passing on Characteristics/Passing on Characteristics.md"
+  ]
+}
