@@ -18,20 +18,41 @@
       "query": "tag:#Biology",
       "color": {
         "a": 1,
-        "rgb": 5562450
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "tag:Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
+    },
+    {
+      "query": "tag:Physics",
+      "color": {
+        "a": 1,
+        "rgb": 14724178
+      }
+    },
+    {
+      "query": "tag:EarthAndSpace",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.316326530612245,
-  "repelStrength": 13.3673469387755,
-  "linkStrength": 1,
-  "linkDistance": 173,
-  "scale": 0.06129847424255878,
+  "collapse-forces": true,
+  "centerStrength": 0.375,
+  "repelStrength": 13.9285714285714,
+  "linkStrength": 0.813775510204082,
+  "linkDistance": 302,
+  "scale": 0.13101079347072572,
   "close": true
 }

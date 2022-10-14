@@ -4,29 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5c23850dc845c9a9",
+        "id": "1fcab149c2c8ad06",
         "type": "leaf",
-        "dimension": 52.429467084639505,
-        "state": {
-          "type": "diff-view",
-          "state": {
-            "file": ".obsidian/graph.json",
-            "staged": false
-          }
-        }
-      },
-      {
-        "id": "887b95a909631349",
-        "type": "leaf",
-        "dimension": 47.5705329153605,
         "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biology/Living Things and Cells/Living Things and Cells.md",
-            "mode": "source",
-            "source": false
-          },
+          "type": "graph",
+          "state": {},
           "pinned": true
         }
       }
@@ -85,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "d72f0c277301fb5c",
@@ -101,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,43 +121,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md"
-              }
+              "state": {}
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "ea25d1e8370cabb1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fcab149c2c8ad06",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 288.5,
+    "collapsed": true
   },
-  "active": "5c23850dc845c9a9",
+  "active": "9d3339ccd16f36d8",
   "lastOpenFiles": [
+    "Biology/Living Things and Cells/Living Things and Cells.md",
+    "Cells.md",
+    "Biology/Biology Contents.md",
     "TODO.md",
     "Biology/Living Things and Cells/Diversity of living things.md",
-    "Biology/Living Things and Cells/Living Things and Cells.md",
     "Biology/Living Things and Cells/What are living things?.md",
     "Biology/Living Things and Cells/Different types of living things.md",
     "[[Different types of living things]].md",
     "[[Different types of living things.md",
-    "Biology/Biology Contents.md",
-    "Contents.md",
-    "Biology/The Origin of Living Things.md"
+    "Contents.md"
   ]
 }
