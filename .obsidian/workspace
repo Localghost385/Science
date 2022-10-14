@@ -6,11 +6,33 @@
       {
         "id": "1fcab149c2c8ad06",
         "type": "leaf",
+        "dimension": 33.33333333333333,
         "pinned": true,
         "state": {
           "type": "graph",
           "state": {},
           "pinned": true
+        }
+      },
+      {
+        "id": "33075655ae11b00b",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "4bc1fce74449be16",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "staged": false
+          }
         }
       }
     ],
@@ -132,8 +154,9 @@
     "width": 288.5,
     "collapsed": true
   },
-  "active": "9d3339ccd16f36d8",
+  "active": "33075655ae11b00b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Biology/Living Things and Cells/Living Things and Cells.md",
     "Cells.md",
     "Biology/Biology Contents.md",
@@ -142,7 +165,6 @@
     "Biology/Living Things and Cells/What are living things?.md",
     "Biology/Living Things and Cells/Different types of living things.md",
     "[[Different types of living things]].md",
-    "[[Different types of living things.md",
-    "Contents.md"
+    "[[Different types of living things.md"
   ]
 }
