@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
+                "file": "2022-10-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
+                "file": "2022-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
+                "file": "2022-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Living Things and Cells/Living Things and Cells.md"
+                "file": "2022-10-15.md"
               }
             }
           }
@@ -191,11 +191,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1fcab149c2c8ad06",
+  "active": "8e736b0a38aa190e",
   "lastOpenFiles": [
+    "Biology/Living Things and Cells/Living Things and Cells.md",
     "Biology/Living Things and Cells/Diversity of living things.md",
     "Cells.md",
-    "Biology/Living Things and Cells/Living Things and Cells.md",
     "Biology/Living Things and Cells/What are living things?.md",
     "TODO.md",
     "2022-10-15.md",
