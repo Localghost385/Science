@@ -29,7 +29,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       },
       {
@@ -137,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biology/Living Things and Cells/Living Things and Cells.md"
+              }
             }
           }
         ],
@@ -188,7 +191,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8e736b0a38aa190e",
+  "active": "1fcab149c2c8ad06",
   "lastOpenFiles": [
     "Biology/Living Things and Cells/Diversity of living things.md",
     "Cells.md",
