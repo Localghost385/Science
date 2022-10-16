@@ -8,6 +8,13 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "tag:#TODO",
+      "color": {
+        "a": 1,
+        "rgb": 16711888
+      }
+    },
+    {
       "query": "tag:#Contents",
       "color": {
         "a": 1,
@@ -22,21 +29,21 @@
       }
     },
     {
-      "query": "tag:Chemistry",
+      "query": "tag:#Chemistry",
       "color": {
         "a": 1,
         "rgb": 7885536
       }
     },
     {
-      "query": "tag:Physics",
+      "query": "tag:#Physics",
       "color": {
         "a": 1,
         "rgb": 14724178
       }
     },
     {
-      "query": "tag:EarthAndSpace",
+      "query": "tag:#EarthAndSpace",
       "color": {
         "a": 1,
         "rgb": 5427424
@@ -53,6 +60,6 @@
   "repelStrength": 13.9285714285714,
   "linkStrength": 0.813775510204082,
   "linkDistance": 302,
-  "scale": 0.18569768226457684,
+  "scale": 0.2656768797751428,
   "close": true
 }

@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono"
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "accentColor": ""
 }
